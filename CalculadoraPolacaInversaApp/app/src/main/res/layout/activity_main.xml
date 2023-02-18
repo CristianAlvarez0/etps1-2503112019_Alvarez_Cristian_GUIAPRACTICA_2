@@ -63,7 +63,6 @@
         android:layout_width="272dp"
         android:layout_height="52dp"
         android:layout_marginTop="56dp"
-        android:text="TextView"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/btnCalcular"
         app:layout_constraintHorizontal_bias="0.0"

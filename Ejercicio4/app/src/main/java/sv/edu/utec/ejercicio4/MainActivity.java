@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         resultadoINC = N + inc;
         resultadoDEC = resultadoINC - dec;
-       resultadoDUP = resultadoDEC * 2;
+        resultadoDUP = resultadoDEC * 2;
 
     tvResul.setText("El Valor Inicial de N = "+N + "\n"+
             "N + 77 =   "+resultadoINC+"\n"+
